@@ -1,2 +1,2 @@
 # QuBes_Camp_test
-This repo is for practice during the QuBes Camp
+This repo is for practice during the QuBes Camp.
